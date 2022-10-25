@@ -1,6 +1,6 @@
 <h2>👨🏻‍💻 Lucas Cardoso - FrontEnd Developer JR <img align="right" src="https://komarev.com/ghpvc/?username=lucas694&color=green" alt="lucas694" /></h2>
 
-<div style="display:inline">
+<div style="inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas694&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas694&layout=compact&langs_count=8&show=html&theme=gotham"/> 
 </div>
